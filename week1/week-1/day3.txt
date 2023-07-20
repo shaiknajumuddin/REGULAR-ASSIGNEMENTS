@@ -1,0 +1,214 @@
+area of recatangle 
+
+step1-start
+step2-declare length,breadth and area
+step3-multiply length and breadth & store in area i.e., area=length*breadth
+step4-print area
+step5-stop
+
+
+area of square
+
+area of square
+step1-start
+step2-declare side and area
+step3- calculate side*side and store in area i.e., area=side*side
+step4-print area
+step5-stop
+
+
+avg of 3 numbers
+
+step1-start
+step2-declare n1,n2,n3,sum,avg
+step3-add n1,n2,n3 and store in sum i.e.,sum=n1+n2+n3
+step4-divide sum with 3 and store in avg i.e.,avg=sum/3
+step5-print avg
+step6-stop
+
+biggest numbers among 3
+
+step1-start 
+step2-declare a,b,c
+step3-read a=10,b=20,c=30
+step4-compare these 3 numbers as the following
+step5- if (a>b)and(a>c) then a is big
+step6- else if (b>c) then b is big
+step7- otherwise c is big
+step8-stop
+
+
+
+checking the alphabet is vowel or consonant
+
+step1-start
+step2- declare the variable var
+step3-read var=b
+step4- first compare var with vowels(a,e,i,o,u) i.e., if(var==a or var==e or var=i or var==o or var==u)
+step5-if it is true then var is a vowel
+step6-otherwise var is consonant
+step7-stop
+
+
+check whether the number is positive or negative
+
+step1-start
+step2-declare the num
+step3-read the num=3
+step4-check whether the num is greater than or equal to zero(num>=0)
+step5-if it returns true then num is a positive
+step6-otherwise num is a negative
+step7-stop
+
+
+circumference of the circle
+
+step1-start
+step2-declare radius,pie=3.14,circumference
+step3-calculate 2*pie*radius and store in circumference
+step4-print circumference
+step5-stop
+
+
+check even number or not
+
+step1-start
+step2-declare the num
+step3-read num=14
+step4-divide num with 2
+step5-if we get the remainder as 0 then num is an even
+step6-otherwise num is an odd
+step7-stop
+
+student grade based on percentage
+
+tep1-start
+step2- decalre physics,chemistry,biology,mathematics,computer,percentage,obtained marks
+step3-read physics=70,chemistry=75,biology=65,mathematics=70,computer=75
+step4- add all subject marks and store it in obtained marks i.e., obtained marks=(physics+chemistry+mathematics+biology+computer)
+step5- calculate percentage -> percentage=(obtained marks/500)*100
+step6-print percentage
+step7- if percentage>=90 then print Grade A
+step8-else if percentage>=80 then print Grade B
+step9-else if percentage>=70 then print Grade C
+step10- elseif percentage>=60 then print Grade D
+step11-elseif percentage>=40 then print Grade E
+step12-otherwise it displays Grade F
+step13-stop
+
+greatest among 2 numbers
+
+step1-start
+step2-declare num1,num2
+step3-read num1=10,num2=20
+step4-compare num1 and num2 i.e.,num1>=num2
+step5- if it is true then print num1 is greatest number
+step6-otherwise num2 is greatest number
+step7-stop
+
+percentage of 5 subjects marks
+
+step1-start
+step2-declare sub1,sub2,sub3,sub4,sub5,total,percentage
+step3-read 5 subject values from user i.e., sub1,sub2,sub3,sub4,sub5
+step4-add all subjects marks and store in total i.e., total=sub1+sub2+sub3+sub4+sub5
+step5-calculate (total/500)*100 and store in percentage
+step6-print percentage
+step7-stop
+
+perimeter of ractangle
+
+perimeter of the rectanle
+step1-start
+step2-declare length,breadth,perimeter,sum
+step3-add length and breadth and store in sum i.e., sum=length+breadth
+step4-multiply sum with 2 and store in perimeter i.e., perimeter=2(sum)
+step5-print perimeter
+step6- stop
+
+perimter of square
+
+step1-start
+step2-declare side,perimeter
+step3-calculate 4*side and store in perimeter i.e., perimeter=4*side
+step4-print perimeter
+step5-stop
+
+simple intrest.txt
+
+step1-start
+step2-declare time,principle amt,ROI,SI
+step3-calculate(time*principle amt*ROI)/100 and store in SI
+step4-print SI
+step5-stop
+
+swapping of two numbers
+
+step1-start
+step2-declare 3 variables A,B,temp
+step3-read the values A=10,B=20
+step4- store A value in temp ->temp=A
+step5-store B value in A -> A=B
+step6-store temp value in B -> B=temp
+step7-print A and B
+step8- stop
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

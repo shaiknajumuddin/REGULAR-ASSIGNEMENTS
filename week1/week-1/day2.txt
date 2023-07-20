@@ -1,0 +1,47 @@
+atm.txt
+
+step1-start
+step2-inserting the card
+step3-selecting the transaction type
+step4-entering the amount
+step5-entering the pin
+step6-finally amount will be withdrawn
+step7-stop
+
+cake.txt
+
+step1-start
+step2-take the ingredients eggs,flour,sugar powder,flavoured essence etc
+step3-next take the bowl and mix all these ingredients step by step without any air bubbles
+step4-pour this mixture into baking tray
+step5-put this tray into microoven under at required temperature for baking process
+step6-after that we can take it out from oven
+step7-then we serve our cake as our required garnishing by applying the cream on it
+step8-stop
+
+
+phone purchasing.txt
+
+step1-start
+step2-Go to website
+step3-login into that website
+step4-search for the required mobile
+step5-knowing about all the features of that mobile
+step6-visiting the review session
+step7-add to cart that product
+step8-buy now
+step9-paying the amount either by instant payment or by cash on delivery
+step10-providing the address for product delivery
+step11-confirm the delivery
+step12-stop
+
+
+
+
+
+
+
+
+
+
+
