@@ -1,5 +1,5 @@
 import java.util.*;
-public class Main
+public class Stak
 {
     private int maxSize;
     private int[] stackArray;
